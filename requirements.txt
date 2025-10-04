@@ -1,0 +1,9 @@
+streamlit
+python-docx
+docx2pdf
+PyPDF2
+pypandoc
+watchdog
+streamlit-option-menu
+pyodbc
+pandas
